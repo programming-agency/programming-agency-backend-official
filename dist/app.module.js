@@ -12,7 +12,7 @@ let AppModule = exports.AppModule = class AppModule {
 };
 exports.AppModule = AppModule = __decorate([
     (0, common_1.Module)({
-        imports: [],
+        imports: []
     })
 ], AppModule);
 //# sourceMappingURL=app.module.js.map
